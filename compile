@@ -1,0 +1,8 @@
+#!/bin/sh
+
+# This script just rebuilds the actual Starst0rm code base and not it's dependency code base (right now just xpwn).
+# Copyright 2010 boxingsquirrel. GPLv3.
+
+echo -e "\033[32m Building Starst0rm" 
+tput sgr0
+make tool

@@ -1,0 +1,9 @@
+For those unsure of what they're doing:
+	Browse for your CURRENT ipsw, then click simple mode. Your ipsw will be built for you.
+
+More advanced users:
+	You can tweak a few things user the options expander. Boot logos will result in a file chooser popping up. When finish, click 'Expert Mode'. The ipsw is then created for you.
+
+After creation of the IPSW, you then will be asked if you are jailbroken. IF IN DOUBT, SAY NO!
+
+If you are not already jailbroken and have an iPhone3G, iPhone2G, or iPod Touch 1G, you will be prompted to get into DFU mode. After this is complete, click OK and prepare for Pwnage.

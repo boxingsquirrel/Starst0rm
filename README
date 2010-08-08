@@ -1,1 +1,19 @@
-Coming soon! ;P
+Starst0rm is an easy to use frontend for xpwn. The xpwn components have already been released, but the GUI is still a work in progress.
+
+Supported devices:
+
+    * iPhone 2G
+    * iPhone 3G
+    * iPhone 3GS (old bootrom)
+    * iPod Touch 1G
+    * iPod Touch 2G (old bootrom)
+
+Please note: All devices must be pre-jailbroken, or one must run sn0wbreeze in Wine to perform the actual exploit.
+
+Building:
+	First, pull some dependencies:
+		sudo apt-get install libz-dev bsdiff libzip2-dev libpng-dev libusb-dev libplist-dev libssl-dev
+
+	Note: those downloading pre-compiled packages need only libzip, libplist, and libssl, and do not need developement packages.
+
+	Then, issue: ./buildAll

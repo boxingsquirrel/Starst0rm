@@ -1,0 +1,39 @@
+Starst0rm incorperates the work of MANY others, and all the hard work wasn't done be me. That said, here goes nothing...
+
+
+GTK+
+	Thanks to everyone who has helped make GTK+ into what it is.
+
+Xpwn
+	This utility is merely an implementation of Pwnage, which is the work of
+	roxfan, Turbo, wizdaz, bgm, and pumpkin. Those guys are the real heroes.
+
+	Also, the new super-awesome bootrom exploit is courtesy of wizdaz.
+
+	MuscleNerd has put a lot of work into the 3G effort. The BootNeuter unlock
+	for first-generation iPhones packaged within is primarily his effort.
+
+	Thanks also go to gray and c1de0x for their RCE efforts. saurik is the author
+	of Cydia, included within. bugout was the lucky guy who did our first 3G tests.
+
+	Thanks to chris for his hardware wisdom, Zf for his French humor, and pytey
+	for the support on the serial stuff.
+
+	idevice's "ready for custom IPSW" art was graciously contributed by KinetiX
+
+	XPwn attempts to use all the same data files and patches as PwnageTool to
+	avoid duplication of present and future labor. I believe that wizdaz probably
+	put the most sweat into PwnageTool, and the pwnage ramdisk is the work of
+	Turbo.
+
+	XPwn on Linux would not have been possible without libibooter, which was
+	written by cmw, based on the Linux iPhone recovery driver written by geohot.
+
+	A special shout-out to cmw, who I have been helping with winpwn. He's put a
+	lot of hard work into winpwn, and should also be credited with doing some of
+	the initial exploratory work with the undocumented DMG format.
+
+Starst0rm
+	The entire Starst0rm codebase is the work of boxingsquirrel.
+
+	Thanks to SharpieBandit for agreeing to test this mess ;P.

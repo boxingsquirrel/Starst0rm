@@ -1,0 +1,17 @@
+#!/bin/sh
+
+# This script is the way for most novice users to build Starst0rm. Just issue ./buildAll and everything that can be built will be built.
+# More advanced users will want to check out ./compile for building any mods they make.
+# Copyright 2010 boxingsquirrel. GPLv3.
+
+echo -e "\033[32m Downloading and building dependencies" 
+tput sgr0
+make prep
+
+echo -e "\033[32m Building Starst0rm" 
+tput sgr0
+./compile
+
+echo -e "\033[32m Packaging" 
+tput sgr0
+make dist

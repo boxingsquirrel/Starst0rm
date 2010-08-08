@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE glade-interface SYSTEM "glade-2.0.dtd">
+<!--Generated with glade3 3.4.5 on Wed Aug  4 18:30:37 2010 -->
+<glade-interface>
+  <widget class="GtkWindow" id="window1">
+    <child>
+      <widget class="GtkFixed" id="fixed1">
+        <property name="visible">True</property>
+        <child>
+          <widget class="GtkLabel" id="label1">
+            <property name="visible">True</property>
+            <property name="label" translatable="yes">&lt;b&gt;Instructions for entering DFU mode:&lt;/b&gt;
+&lt;b&gt;1.&lt;/b&gt; Make sure your device is both turned off and plugged into the computer.
+&lt;b&gt;2.&lt;/b&gt; Hold down the power button for &lt;i&gt;2 seconds&lt;/i&gt;
+&lt;b&gt;3.&lt;/b&gt; Continue holding the power button and press and hold the home button for &lt;i&gt;10 seconds&lt;/i&gt;
+&lt;b&gt;4.&lt;/b&gt; Release the power button but keep holding the home button for &lt;i&gt;30 seconds&lt;/i&gt;, or until you are in DFU mode.
+
+Your screen should glow faintly but remain all black.</property>
+            <property name="use_markup">True</property>
+            <property name="wrap">True</property>
+          </widget>
+          <packing>
+            <property name="x">12</property>
+            <property name="y">14</property>
+          </packing>
+        </child>
+      </widget>
+    </child>
+  </widget>
+</glade-interface>
